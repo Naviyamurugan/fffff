@@ -195,7 +195,7 @@ export function AdminDashboard() {
         </div>
       </div>
 
-      {/* Quick Actions */}
+      {/* Quick Actions */} 
       <div className="bg-gray-800 border border-gray-700 rounded-lg p-6">
         <h3 className="text-lg font-semibold text-white mb-4">Quick Actions</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
